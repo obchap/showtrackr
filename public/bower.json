@@ -1,0 +1,12 @@
+{
+  "name": "Vacation Organization",
+  "version": "0.0.1",
+  "main": "index.html",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+  }
+}
